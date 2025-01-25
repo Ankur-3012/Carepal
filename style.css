@@ -602,7 +602,7 @@ body{
 	margin-top:150px;
 }
 .slider .single-slider h1 {
-	color: #2C2D3F;
+	color: #030304;
 	font-size: 38px;
 	font-weight: 700;
 	margin: 0;
@@ -610,12 +610,12 @@ body{
 	line-height: 42px;
 }
 .slider .single-slider h1 span{
-	color:#1a76d1;
+	color:#145597;
 }
 .slider .single-slider p {
 	color: #2C2D3F;
 	margin-top: 27px;
-	font-weight: 400;
+	font-weight: 500;
 }
 .slider .single-slider .button{
 	margin-top:30px;
