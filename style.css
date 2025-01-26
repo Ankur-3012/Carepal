@@ -2024,7 +2024,7 @@ body{
 	background: #fff;
 	z-index: 99;
 	position: relative;
-	padding: 30px;
+	padding: 10px;
 	left: 0;
 	z-index: 0;
 }
@@ -2050,7 +2050,7 @@ body{
 .blog .single-news .news-body h2 {
 	font-size: 18px;
 	font-weight: 600;
-	margin-bottom: 10px;
+	margin-bottom: auto;
 	line-height: 24px;
 }
 .blog .single-news .news-body h2 a{
